@@ -4,7 +4,7 @@
 <img border="0" src="https://github.com/iamruveyda/images/blob/master/kbu.png?raw=true" width="150px">
 </a>
 
-## Sayısal Analiz
+## Numerical Analysis
 
 <div align="center">
    <a href="https://github.com/iamruveyda/KBU-Num/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/iamruveyda/KBU-Num?style=plastic"></a>
