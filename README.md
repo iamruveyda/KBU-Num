@@ -13,7 +13,7 @@
 
 ## Instructor
 
- [Dr.Öğr.Üyesi Burhan SELÇUK](https://muh.karabuk.edu.tr/?page=detail&no=31)
+ [Asst.Prof.Dr. Burhan SELÇUK](https://muh.karabuk.edu.tr/?page=detail&no=31)
  
   
   
