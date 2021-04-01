@@ -1,4 +1,4 @@
-# [KBU Bilgisayar Mühendisliği Notları](https://github.com/iamruveyda/KBU-ComputerEng)
+# [KBU Computer Engineering Lecture Notes](https://github.com/iamruveyda/KBU-ComputerEng)
 
 <a href="https://www.karabuk.edu.tr/" target="_blank">
 <img border="0" src="https://github.com/iamruveyda/images/blob/master/kbu.png?raw=true" width="150px">
